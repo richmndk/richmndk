@@ -3,10 +3,6 @@
 <h2 align="center">Richmond Konan</h2>
 <p align="center"><i>Technicien Réseau & Sécurité / Programmation & IA appliquée</i></p>
 
-<p align="center">
-  <img src="URL_PHOTO_PROFIL" width="180" style="border-radius:50%;" alt="Richmond Konan"/>
-</p>
-
 ---
 
 ##  À propos de moi
@@ -15,24 +11,20 @@ Je suis **Richmond Konan**, Technicien Réseau et Sécurité, avec un bagage sci
 
 Ma force : un profil **technique mais hybride**. Je combine la programmation et l'intelligence artificielle avec mon expertise réseau/cybersécurité, à travers des projets techniques alliant développement et IA. Ce profil polyvalent me permet de travailler efficacement avec plusieurs technologies et de m'adapter rapidement à de nouveaux environnements.
 
-<p align="center">
-  <img src="URL_IMAGE_RESEAU" width="230" alt="Réseau"/>
-  <img src="URL_IMAGE_CYBERSEC" width="230" alt="Cybersécurité"/>
-  <img src="URL_IMAGE_IA_PYTHON" width="230" alt="IA & Python"/>
-</p>
-
 ---
 
 ## 🏆 Certifications
 
-- 🔒 **Fortinet Network Security Expert – Level 2 (NSE 2)**
-- 🔒 **Fortinet Network Security Expert – Level 3 (NSE 3)**
-- 🌐 **Cisco CCNA 1 – Introduction to Networks**
-- 🌐 **Cisco CCNA 2 – Switching, Routing, and Wireless Essentials**
-- 🌐 **Cisco CCNA 3 – Enterprise Networking, Security, and Automation**
-- 🤖 **Anthropic – Certification IA** 
-- 🐍 **freeCodeCamp – Python**
-- 🛡️ **ISC2 – Certified in Cybersecurity (CC)**
+| Organisme | Certification |
+|:---:|---|
+| ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white) | Fortinet Network Security Expert – Level 2 (NSE 2) |
+| ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white) | Fortinet Network Security Expert – Level 3 (NSE 3) |
+| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) | CCNA 1 – Introduction to Networks |
+| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) | CCNA 2 – Switching, Routing, and Wireless Essentials |
+| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) | CCNA 3 – Enterprise Networking, Security, and Automation |
+| ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white) | Certification IA *(à préciser : intitulé exact)* |
+| ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white) | Python |
+| ![ISC2](https://img.shields.io/badge/ISC2-000000?style=for-the-badge&logo=isc2&logoColor=white) | Certified in Cybersecurity (CC) |
 
 > 📌 L'ensemble de mes certifications est disponible sur mon profil Credly : **[https://www.credly.com/users/richmondkonan]**
 
@@ -70,7 +62,7 @@ Ma force : un profil **technique mais hybride**. Je combine la programmation et 
 
 ---
 
-##  Expériences
+## 🚀 Expériences
 
 **Stage en Intelligence Artificielle — Entreprise américaine** *(4 mois)*
 Montée en compétence progressive, des fondamentaux vers une maîtrise experte des IA de langage : workflows, automatisation, et collaboration humain-IA. Mission encadrée par deux mentors, avec des points réguliers en visioconférence avec l'équipe.
@@ -90,7 +82,7 @@ Stage réalisé via une plateforme d'e-stage, centré sur l'analyse web, les API
 
 ---
 
-## ✅ Aujourd'hui, Richmond peut :
+##  Aujourd'hui, Richmond peut :
 - 🔧 Travailler en tant que **Network Technician & Security**
 - 🤖 Implémenter **Python et l'IA** pour automatiser des tâches techniques et quotidiennes
 
@@ -99,16 +91,21 @@ Stage réalisé via une plateforme d'e-stage, centré sur l'analyse web, les API
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NOM_UTILISATEUR_GITHUB&show_icons=true&theme=radical" alt="Statistiques GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/richmndk&show_icons=true&theme=radical" alt="Statistiques GitHub"/>
 </p>
 
 ---
 
-## 🌍 Réseaux
+## 🌍 
 
-- 💼 **LinkedIn** : [https://www.linkedin.com/in/richmondkonan]
-- 📸 **Instagram** : [https://www.instagram.com/iam_richmondk?igsh=MXR4bmpseWpyc3ZnbQ==]
-- 🐦 **Twitter/X** : [LIEN_TWITTER]
+<p align="left">
+  <a href="https://www.linkedin.com/in/richmondkonan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/iam_richmondk?igsh=MXR4bmpseWpyc3ZnbQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://x.com/Richmndkn"><img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/></a>
+</p>
 
+- 
 ## 📫 Me contacter
-- 📧 **Email** : [delmasrichmond@gmail.com]
+<p align="left">
+  <a href="mailto:delmasrichmond@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
