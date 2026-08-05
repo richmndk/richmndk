@@ -22,7 +22,7 @@ Ma force : un profil **technique mais hybride**. Je combine la programmation et 
 | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) | CCNA 1 – Introduction to Networks |
 | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) | CCNA 2 – Switching, Routing, and Wireless Essentials |
 | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) | CCNA 3 – Enterprise Networking, Security, and Automation |
-| ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white) | Certification IA *(à préciser : intitulé exact)* |
+| ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white) | Certification IA |
 | ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white) | Python |
 | ![ISC2](https://img.shields.io/badge/ISC2-000000?style=for-the-badge&logo=isc2&logoColor=white) | Certified in Cybersecurity (CC) |
 
