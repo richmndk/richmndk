@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salut, bienvenue !</h1>
+<h1 align="center">👋bienvenue !</h1>
 
 <h2 align="center">Richmond Konan</h2>
 <p align="center"><i>Technicien Réseau & Sécurité / Programmation & IA appliquée</i></p>
@@ -43,7 +43,16 @@ Ma force : un profil **technique mais hybride**. Je combine la programmation et 
 
 ---
 
-## 💼 Projets
+## 🧪 Labs & Environnement de travail
+
+![Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+- 🌐 **Cisco Packet Tracer**  simulation et configuration de topologies réseau (VLAN, routage, sécurité)
+- 🛡️ **Kali Linux** tests d'intrusion, analyse de vulnérabilités, entraînement offensif (DDoS, phishing, MITM)
+
+---
 
 ### 🌐 Réseau
 - Configuration d'un réseau d'entreprise : VLAN, Trunk, Router-on-a-Stick, sécurisation des équipements
@@ -57,18 +66,27 @@ Ma force : un profil **technique mais hybride**. Je combine la programmation et 
 - Développement de scripts de sécurité en Python
 
 ### 🤖 IA & Développement
-- **iDetector** *(projet long terme, en cours de développement)* — Plateforme d'analyse et de détection de fraude financière en Afrique
+- **iDetector** *(projet long terme, en cours de développement)*  Plateforme d'analyse et de détection de fraude financière en Afrique
 - Automatisation de tâches techniques et quotidiennes avec **n8n**, **Make**, etc.
 
 ---
 
 ## 🚀 Expériences
 
-**Stage en Intelligence Artificielle — Entreprise américaine** *(4 mois)*
+**Stage en Intelligence Artificielle Flyrank AI, Entreprise américaine** *(4 mois)*
 Montée en compétence progressive, des fondamentaux vers une maîtrise experte des IA de langage : workflows, automatisation, et collaboration humain-IA. Mission encadrée par deux mentors, avec des points réguliers en visioconférence avec l'équipe.
 
-**Stage — FlyRank IA** *(1 mois)*
-Stage réalisé via une plateforme d'e-stage, centré sur l'analyse web, les API et le phishing.
+**Stage Cybersécurité  Future Interns** *(1 mois)*
+Stage réalisé via **Future Interns**, plateforme de e-stage (stage à distance). Mission axée sur la cybersécurité : analyse de sites web, étude d'API, et analyse de tentatives de phishing.
+
+**Learnathon Africa Digital Empower** *(en partenariat avec Cisco)*
+Compétition axée réseau et cybersécurité. 🏅 **Finaliste**.
+
+**NetAcad Cup 2026  Cisco** *(compétition mondiale)*
+Participant, représentant l'académie **Cybastion**.
+
+**Pratique CTF  TryHackMe**
+Entraînement régulier en Capture The Flag. Classement : **Top 25%**.
 
 ---
 
@@ -82,21 +100,13 @@ Stage réalisé via une plateforme d'e-stage, centré sur l'analyse web, les API
 
 ---
 
-##  Aujourd'hui, Richmond peut :
+## ✅ Aujourd'hui, Richmond peut :
 - 🔧 Travailler en tant que **Network Technician & Security**
 - 🤖 Implémenter **Python et l'IA** pour automatiser des tâches techniques et quotidiennes
 
 ---
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/richmndk&show_icons=true&theme=radical" alt="Statistiques GitHub"/>
-</p>
-
----
-
-## 🌍 
+## 🌍 Réseaux Sociaux
 
 <p align="left">
   <a href="https://www.linkedin.com/in/richmondkonan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -104,7 +114,6 @@ Stage réalisé via une plateforme d'e-stage, centré sur l'analyse web, les API
   <a href="https://x.com/Richmndkn"><img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/></a>
 </p>
 
-- 
 ## 📫 Me contacter
 <p align="left">
   <a href="mailto:delmasrichmond@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
