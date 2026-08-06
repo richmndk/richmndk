@@ -94,7 +94,7 @@ Entraînement régulier en Capture The Flag. Classement : **Top 25%**.
 
 | Établissement | Diplôme / Programme | Période |
 |---|---|---|
-| Université Polytechnique de Man | Licence Mathématiques, Informatique, Physique, Chimie (MIPC) | 2022 – 2024 |
+| Université Polytechnique de Man | Licence Mathématiques, Informatique, Physique, Chimie (MIPC) | 2022 |
 | Cybastion | Graduate Certificate  Network Technician & Security (Bootcamp 3 mois) | 2025 |
 | Force N – UNCHK | Parcours Cybersécurité  | 2026 |
 
