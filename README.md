@@ -1,13 +1,13 @@
 <h1 align="center">👋bienvenue !</h1>
 
 <h2 align="center">Richmond Konan</h2>
-<p align="center"><i>Technicien Réseau & Sécurité / Programmation & IA appliquée</i></p>
+<p align="center"><i>Analyste Réseau & Sécurité / Programmation & IA appliquée</i></p>
 
 ---
 
 ##  À propos de moi
 
-Je suis **Richmond Konan**, Technicien Réseau et Sécurité, avec un bagage scientifique en mathématiques, physique et informatique (parcours **MIPC**). Rigoureux et travailleur, je mets régulièrement en pratique mes compétences en réseau et en cybersécurité à travers des projets concrets.
+Je suis **Richmond Konan**, Analyste Réseau et Sécurité, avec un bagage scientifique en mathématiques, physique et informatique (parcours **MIPC**). Rigoureux et travailleur, je mets régulièrement en pratique mes compétences en réseau et en cybersécurité à travers des projets concrets.
 
 Ma force : un profil **technique mais hybride**. Je combine la programmation et l'intelligence artificielle avec mon expertise réseau/cybersécurité, à travers des projets techniques alliant développement et IA. Ce profil polyvalent me permet de travailler efficacement avec plusieurs technologies et de m'adapter rapidement à de nouveaux environnements.
 
@@ -101,7 +101,7 @@ Entraînement régulier en Capture The Flag. Classement : **Top 25%**.
 ---
 
 ## ✅ Aujourd'hui, Richmond peut :
-- 🔧 Travailler en tant que **Network Technician & Security**
+- 🔧 Travailler en tant que **Analyst Security Network** , **Analyst cyber security** ou **Network Security Technician**
 - 🤖 Implémenter **Python et l'IA** pour automatiser des tâches techniques et quotidiennes
 
 ---
