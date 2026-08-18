@@ -1,4 +1,4 @@
-<h1 align="center">👋bienvenue !</h1>
+<h1 align="center">bienvenue !</h1>
 
 <h2 align="center">Richmond Konan</h2>
 <p align="center"><i>Analyste Réseau & Sécurité / Programmation & IA appliquée</i></p>
